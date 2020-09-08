@@ -1,16 +1,15 @@
-# Self-Driving-Cars-Using-Keras
+# Steering-Angle-Detection-In-Self-Driving-Cars-Using-CNN
 
 ## Demo
-<img src="https://github.com/saireddyavs/Self-Driving-Cars-Using-Keras/blob/master/Demo.gif"/>
+<img src="https://github.com/saty99/Self-Driving-Cars-Using-Keras/blob/master/Demo.gif"/>
 
 
 
 ## Dataset
 - Approximately 45,500 images, 2.3GB. One of the original datasets made by [SullyChen](https://github.com/SullyChen/) in 2017. Data was recorded around Rancho Palos Verdes and San Pedro California.
 - 25 minutes = 25{min} x 60{1 min = 60 sec} x 30{fps} = 45,000 images ~ 2.3 GB
-- [You Can Download Dataset from Here](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view?usp=sharing)
-- How the data was recorded by SullyChen can is explained in one his medium articles. [link to SullyChen medium article](https://medium.com/@sullyfchen/how-a-high-school-junior-made-a-self-driving-car-705fa9b6e860)
-- You can see how the images are recorded from this [Video](https://www.youtube.com/watch?v=nzKzee-Mhnc&feature=youtu.be).
+
+
 
 
 
@@ -23,10 +22,6 @@
 
 
 ## Some-Results
-
-  **Got Best Results Using Nvidia's Architecture. It is used in Best_Model_1**
-
-
 
   *These are the Results after 1000 epochs.*
 
@@ -54,8 +49,7 @@
 70 minutes of data ~ 223GB
 Format: Image, latitude, longitude, gear, brake, throttle, steering angles and speed<br>
 -  [Udacity Dataset:](https://github.com/udacity/self-driving-car/tree/master/datasets) Dataset ranging from 40 to 183 GB in different conditions
--  [Comma.ai Dataset ](https://github.com/commaai/research)[80 GB Uncompressed]
-- [Apollo Dataset](http://data.apollo.auto/?locale=en-us&lang=en) with different environment data of road
+
 
 ### Credits & Inspired By
 -  SullyChen [github page](https://github.com/SullyChen/Autopilot-TensorFlow)
