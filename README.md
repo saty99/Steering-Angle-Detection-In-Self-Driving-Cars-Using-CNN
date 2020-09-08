@@ -1,7 +1,7 @@
 # Steering-Angle-Detection-In-Self-Driving-Cars-Using-CNN
 
 ## Demo
-<img src="https://github.com/saty99/Self-Driving-Cars-Using-Keras/blob/master/Demo.gif"/>
+<img src="https://github.com/saty99/Steering-Angle-Detection-In-Self-Driving-Cars-Using-CNN/blob/master/Demo.gif"/>
 
 
 
